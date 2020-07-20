@@ -20,7 +20,7 @@ while count > 1 do
   put "#{count}"
   count = count - 1
   break if count == 1 
-    put "Happy New Year!"
+    # put "Happy New Year!"
 end
 
 put "Happy New Year!"
