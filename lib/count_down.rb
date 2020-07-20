@@ -23,7 +23,7 @@ while count > 1 do
     # put "Happy New Year!"
 end
 
-put "Happy New Year!"
+puts "Happy New Year!"
 
 
 
