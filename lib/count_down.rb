@@ -13,6 +13,14 @@
 #   count = count + 1
 # end
 
+count = 10 
+
+while count > 1 do
+  put "#{count}"
+  if count == 1 
+    put "Happy New Year!"
+end
+
 
 
 
